@@ -4,6 +4,20 @@ This repository contains the Phase 1 technical documentation and reproducibility
 
 CREST, the Covariant Relativistic Extended Scalar Theory, is developed here as a response-layer framework for galaxy-scale residual structure. This Phase 1 package focuses on the SPARC/RAR galaxy-rotation benchmark and compares a fixed CREST backbone and shared residual layer against MOND-style, RAR-form, and tuned halo reference baselines.
 
+## Repository Structure
+
+```text
+.
+├── README.md
+├── LICENSE
+├── CREST_Phase1_Technical_Document.pdf
+├── CREST_Phase1_Technical_Document.docx
+├── CREST_Phase1_Reproducibility_Assets.zip
+├── docs/
+├── assets/
+├── data/
+├── notebooks/
+└── src/
 ## Repository Contents
 
 - `CREST_Phase1_Technical_Document.pdf`  
