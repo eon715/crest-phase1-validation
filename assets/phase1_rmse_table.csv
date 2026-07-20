@@ -1,0 +1,5 @@
+Model,Full RMSE,Q=1,Q=2,Q=3
+CREST backbone,0.2039,0.1703,0.2192,0.4518
+Fixed MOND-style branch,0.1996,0.17,0.2116,0.4329
+Fixed RAR-form branch,0.1998,0.1699,0.2121,0.4338
+CREST Huber residual layer,0.1959,0.171,0.203,0.4172
