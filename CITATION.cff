@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+
+title: "CREST Phase 1 Validation: Metric-Response Benchmark Documentation and Reproducibility Assets"
+
+authors:
+  - family-names: "Seals"
+    given-names: "Ventress Kazan"
+    name-particle: "II"
+
+version: "v0.1-phase1"
+date-released: "2026-07-20"
+
+repository-code: "https://github.com/YOUR-GITHUB-USERNAME/crest-phase1-validation"
+
+type: software
+
+abstract: >
+  This repository contains the Phase 1 technical documentation and reproducibility-facing
+  assets for the CREST metric-response validation program. The package focuses on
+  SPARC/RAR galaxy-rotation benchmarks and compares a fixed CREST backbone and shared
+  residual layer against MOND-style, RAR-form, and tuned halo reference baselines.
+
+keywords:
+  - CREST
+  - metric response
+  - galaxy rotation curves
+  - SPARC
+  - RAR
+  - MOND
+  - dark matter
+  - modified gravity
+  - astrophysics
+  - reproducibility
+
+license: MIT
