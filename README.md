@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20097850.svg)](https://doi.org/10.5281/zenodo.20097850)
+
 # CREST Phase 1 Validation
 
 This repository contains the Phase 1 technical documentation and reproducibility-facing assets for the CREST metric-response validation program.
